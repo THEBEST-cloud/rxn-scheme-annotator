@@ -1,0 +1,654 @@
+{
+  "reactions": [
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=Cc1ccccc1",
+        "relations": [
+          "R = Ph, p-MeC6H4, p-CF3C6H4, 2-thienyl, 4-(2-methylallyloxy)C6H4 (method A)",
+          "28 examples up to 99% yield, 98:2 er"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "[Na+].[B-](c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](c1ccccc1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "96% NMR yield",
+          "56% isolated yield",
+          "er 97:3",
+          "method A"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=Cc1ccc(C)cc1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "[Na+].[B-](c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc(C)cc1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "95% NMR yield",
+          "51% isolated yield",
+          "er 97:3",
+          "method A"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=Cc1ccc(C(F)(F)F)cc1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "[Na+].[B-](c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc(C(F)(F)F)cc1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "95% NMR yield",
+          "60% isolated yield",
+          "er 98:2",
+          "method A"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=Cc1ccsc1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "[Na+].[B-](c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](c1ccsc1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "87% NMR yield",
+          "46% isolated yield",
+          "er 93:7",
+          "method A"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=Cc1ccc(OCC(=C)C)cc1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "[Na+].[B-](c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc(OCC(=C)C)cc1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "98% NMR yield",
+          "60% isolated yield",
+          "er 95:5",
+          "method A"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=Cc1ccccc1",
+        "relations": [
+          "R = Ph, p-BrC6H4, p-PhC6H4, 2-Naph, Cy (method B)"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[K+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](c1ccccc1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "89% NMR yield",
+          "55% isolated yield",
+          "er 94:6",
+          "method B"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=Cc1ccc(Br)cc1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[K+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc(Br)cc1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "71% NMR yield",
+          "45% isolated yield",
+          "er 93:7",
+          "method B"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=Cc1ccc(-c2ccccc2)cc1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[K+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc(-c2ccccc2)cc1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "85% NMR yield",
+          "54% isolated yield",
+          "er 86:14",
+          "method B"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=Cc1ccc2ccccc2c1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[K+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc2ccccc2c1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "86% NMR yield",
+          "56% isolated yield",
+          "er 86:14",
+          "method B"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)(C)OC(=O)N=CC1CCCCC1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+        "relations": [
+          "1.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "10 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[S@](=O)c1cc(P(C(C)C)C(C)C)c(OC)c(OC)c1",
+        "relations": [
+          "10 mol%",
+          "ligand"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[K+]",
+        "relations": [
+          "12 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)OC",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "20 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "12 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CC(C)(C)OC(=O)N[C@@H](C1CCCCC1)B1OC(C)(C)C(C)(C)O1",
+        "relations": [
+          "76% NMR yield",
+          "44% isolated yield",
+          "er 70:30",
+          "method B"
+        ]
+      }
+    ]
+  ]
+}

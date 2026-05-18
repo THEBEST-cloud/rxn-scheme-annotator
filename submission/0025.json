@@ -1,0 +1,328 @@
+{
+  "reactions": [
+    [
+      {
+        "type": "reactants",
+        "text": "c1cc2ccccc2s1",
+        "relations": [
+          "Ar¹ = various functionalized (hetero)arenes",
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "CN(C)c1cccc(Cl)c1",
+        "relations": [
+          "Ar² = various functionalized arenes; X = Cl, F",
+          "1.3-2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC1(C)CCCC(C)(C)N1[Li]",
+        "relations": [
+          "2.5-4.5 equiv",
+          "LiTMP (TMP = 2,2,6,6-tetramethylpiperidine)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "-73 to 40 °C",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "CN(C)c1cccc(-c2cc3ccccc3s2)c1",
+        "relations": [
+          "81% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "c1cc2ccccc2s1",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "O=C(OC(C)(C)C)c1cccc(Cl)c1",
+        "relations": [
+          "1.3-2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC1(C)CCCC(C)(C)N1[Li]",
+        "relations": [
+          "2.5-4.5 equiv",
+          "LiTMP (TMP = 2,2,6,6-tetramethylpiperidine)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "-73 to 40 °C",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "O=C(OC(C)(C)C)c1cccc(-c2cc3ccccc3s2)c1",
+        "relations": [
+          "60% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "c1cc2ccccc2s1",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "COc1ccc(C)c(Cl)c1",
+        "relations": [
+          "1.3-2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC1(C)CCCC(C)(C)N1[Li]",
+        "relations": [
+          "2.5-4.5 equiv",
+          "LiTMP (TMP = 2,2,6,6-tetramethylpiperidine)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "-73 to 40 °C",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "Cc1ccc(OC)cc1-c1cc2ccccc2s1",
+        "relations": [
+          "73% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "c1cc2ccccc2o1",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "Clc1ccccc1",
+        "relations": [
+          "1.3-2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC1(C)CCCC(C)(C)N1[Li]",
+        "relations": [
+          "2.5-4.5 equiv",
+          "LiTMP (TMP = 2,2,6,6-tetramethylpiperidine)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "-73 to 40 °C",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "c1ccc(-c2cc3ccccc3o2)cc1",
+        "relations": [
+          "81% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "Cn1cnc2ccccc21",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "Clc1ccccc1",
+        "relations": [
+          "1.3-2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC1(C)CCCC(C)(C)N1[Li]",
+        "relations": [
+          "2.5-4.5 equiv",
+          "LiTMP (TMP = 2,2,6,6-tetramethylpiperidine)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "-73 to 40 °C",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "Cn1c(-c2ccccc2)nc2ccccc21",
+        "relations": [
+          "91% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "COc1cnccc1",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "Clc1ccccc1",
+        "relations": [
+          "1.3-2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC1(C)CCCC(C)(C)N1[Li]",
+        "relations": [
+          "2.5-4.5 equiv",
+          "LiTMP (TMP = 2,2,6,6-tetramethylpiperidine)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "-73 to 40 °C",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "COc1cnccc1-c1ccccc1",
+        "relations": [
+          "71% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "COc1cccc(C(F)(F)F)c1",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "Clc1ccccc1",
+        "relations": [
+          "1.3-2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC1(C)CCCC(C)(C)N1[Li]",
+        "relations": [
+          "2.5-4.5 equiv",
+          "LiTMP (TMP = 2,2,6,6-tetramethylpiperidine)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCCCC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "-73 to 40 °C",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "COc1cccc(C(F)(F)F)c1-c1ccccc1",
+        "relations": [
+          "81% yield"
+        ]
+      }
+    ]
+  ]
+}

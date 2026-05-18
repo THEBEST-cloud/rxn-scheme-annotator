@@ -1,0 +1,133 @@
+{
+  "reactions": [
+    [
+      {
+        "type": "reactants",
+        "text": "CC1CCC([Zn]Cl)CC1",
+        "relations": [
+          "R = Me, i-Pr, ...",
+          "24 examples, 59-96% yield, dr from 92:8 to >99:1"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "FC(F)(F)c1ccc(I)cc1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd]",
+        "relations": ["Pd(0)"]
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CCN1CCCC1=O",
+        "relations": ["NEP"]
+      },
+      {
+        "type": "temperature",
+        "text": "-25 to 25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "4-15 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "C[C@H]1CC[C@@H](c2ccc(C(F)(F)F)cc2)CC1",
+        "relations": ["96% yield", "dr 96:4"]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC1CCC([Zn]Cl)CC1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "COC(=O)c1ccc(I)cc1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd]",
+        "relations": ["Pd(0)"]
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CCN1CCCC1=O",
+        "relations": ["NEP"]
+      },
+      {
+        "type": "temperature",
+        "text": "-25 to 25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "4-15 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "COC(=O)c1ccc([C@H]2CC[C@@H](C)CC2)cc1",
+        "relations": ["82% yield", "dr 99:1"]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(C)C1CCC([Zn]Cl)CC1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "COc1ccc(I)cc1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "[Pd]",
+        "relations": ["Pd(0)"]
+      },
+      {
+        "type": "reagent",
+        "text": "C1CCOC1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CCN1CCCC1=O",
+        "relations": ["NEP"]
+      },
+      {
+        "type": "temperature",
+        "text": "-25 to 25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "4-15 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "COc1ccc([C@H]2CC[C@@H](C(C)C)CC2)cc1",
+        "relations": ["78% yield", "dr >99:1"]
+      }
+    ]
+  ]
+}

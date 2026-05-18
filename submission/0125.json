@@ -1,0 +1,448 @@
+{
+  "reactions": [
+    [
+      {
+        "type": "reactants",
+        "text": "Cc1ccnc2ccccc12",
+        "relations": [
+          "HetAr = various heteroaromatics"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "[K+].[B-](F)(F)(F)C1CCC1",
+        "relations": [
+          "R = Alk, alkoxymethyl"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Mn+3]",
+        "relations": [
+          "2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)C(F)(F)F",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O",
+        "relations": [
+          "AcOH-H2O (1:1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "50 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "18 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "Cc1cc(C2CCC2)nc2ccccc12",
+        "relations": [
+          "65% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "Clc1cnc2ccccc2n1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "[K+].[B-](F)(F)(F)C1CCC1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Mn+3]",
+        "relations": [
+          "2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)C(F)(F)F",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O",
+        "relations": [
+          "AcOH-H2O (1:1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "50 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "18 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "Clc1c(C2CCC2)nc2ccccc2n1",
+        "relations": [
+          "61% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "c1ccc2ncsc2c1",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "[K+].[B-](F)(F)(F)C1CCC1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Mn+3]",
+        "relations": [
+          "2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)C(F)(F)F",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O",
+        "relations": [
+          "AcOH-H2O (1:1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "50 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "18 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "C1CCC1c1nc2ccccc2s1",
+        "relations": [
+          "54% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "Oc1ncnc2ccccc12",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "[K+].[B-](F)(F)(F)C1CCC1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Mn+3]",
+        "relations": [
+          "2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)C(F)(F)F",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O",
+        "relations": [
+          "AcOH-H2O (1:1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "50 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "18 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "Oc1nc(C2CCC2)nc2ccccc12",
+        "relations": [
+          "59% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "Cc1ccnc2ccccc12",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "[K+].[B-](F)(F)(F)C(C)C",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Mn+3]",
+        "relations": [
+          "2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)C(F)(F)F",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O",
+        "relations": [
+          "AcOH-H2O (1:1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "50 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "18 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "Cc1cc(C(C)C)nc2ccccc12",
+        "relations": [
+          "69% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "Cc1ccnc2ccccc12",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "[K+].[B-](F)(F)(F)C(C)CC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Mn+3]",
+        "relations": [
+          "2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)C(F)(F)F",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O",
+        "relations": [
+          "AcOH-H2O (1:1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "50 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "18 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "Cc1cc(C(C)CC)nc2ccccc12",
+        "relations": [
+          "78% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "Cc1ccnc2ccccc12",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "[K+].[B-](F)(F)(F)COCC=C",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Mn+3]",
+        "relations": [
+          "2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)C(F)(F)F",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O",
+        "relations": [
+          "AcOH-H2O (1:1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "50 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "18 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "Cc1cc(COCC=C)nc2ccccc12",
+        "relations": [
+          "65% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "Cc1ccnc2ccccc12",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "[K+].[B-](F)(F)(F)COCC1CC1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Mn+3]",
+        "relations": [
+          "2.5 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)C(F)(F)F",
+        "relations": [
+          "1 equiv"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(=O)O",
+        "relations": [
+          "AcOH-H2O (1:1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "50 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "18 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "Cc1cc(COCC2CC2)nc2ccccc12",
+        "relations": [
+          "68% yield"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+# Competition data (200 images, ~tens of MB) — provided by organizers, not our IP
+img/
+
+# Pipeline intermediate output
+pipeline_out_raw/
+pipeline_out_clean/
+
+# Submission intermediates and logs
+submission_v1/
+submission_v2/
+submission_trial/
+submission*.zip
+*.log
+resume-*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.python-version
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp

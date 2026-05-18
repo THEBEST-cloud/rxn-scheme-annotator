@@ -1,0 +1,215 @@
+{
+  "reactions": [
+    [
+      {
+        "type": "reactants",
+        "text": "N#C/C(=C(/CC)CC)C(=C/c1ccccc1)C(=O)OCC",
+        "relations": [
+          "R¹, R² = alkyl, aryl; EWG = CN, CO2Et",
+          "22 examples, 43-80% yield"
+        ]
+      },
+      {
+        "type": "reactants",
+        "text": "O=C/C=C/CC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)O[C@](c1ccccc1)(c1ccccc1)[C@@H]2CCCN2",
+        "relations": [
+          "10 mol%",
+          "(S)-Jorgensen-Hayashi catalyst (3)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)c1ccccc1",
+        "relations": [
+          "10 mol%",
+          "PhCO2H"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "C1COCCO1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "24-48 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "O=CC1=C(c2ccccc2)C(CC)C(CC)C(C#N)(C(=O)OCC)C1",
+        "relations": [
+          "75% yield",
+          "dr 89:11",
+          "er 99:1"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "N#C/C(=C(/CC)CC)C(=C/CC)C(=O)OCC",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "O=C/C=C/CC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)O[C@](c1ccccc1)(c1ccccc1)[C@@H]2CCCN2",
+        "relations": [
+          "10 mol%",
+          "(S)-Jorgensen-Hayashi catalyst (3)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)c1ccccc1",
+        "relations": [
+          "10 mol%",
+          "PhCO2H"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "C1COCCO1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "24-48 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "O=CC1=C(CC)C(CC)C(CC)C(C#N)(C(=O)OCC)C1",
+        "relations": [
+          "45% yield",
+          "dr 92:8",
+          "er 99.5:0.5"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "N#C/C(=C(/CC)CC)C(=C/C(C)C)C#N",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "O=C/C=C/C",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)O[C@](c1ccccc1)(c1ccccc1)[C@@H]2CCCN2",
+        "relations": [
+          "10 mol%",
+          "(S)-Jorgensen-Hayashi catalyst (3)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)c1ccccc1",
+        "relations": [
+          "10 mol%",
+          "PhCO2H"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "C1COCCO1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "24-48 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "O=CC1=C(C(C)C)C(CC)C(CC)C(C#N)(C#N)C1",
+        "relations": [
+          "57% yield",
+          "dr 86:14",
+          "er 99:1"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "N#C/C(=C(/C(C)(C)C)C(C)(C)C)C(=C/c1ccccc1)C#N",
+        "relations": []
+      },
+      {
+        "type": "reactants",
+        "text": "O=C/C=C/C",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "C[Si](C)(C)O[C@](c1ccccc1)(c1ccccc1)[C@@H]2CCCN2",
+        "relations": [
+          "10 mol%",
+          "(S)-Jorgensen-Hayashi catalyst (3)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OC(=O)c1ccccc1",
+        "relations": [
+          "10 mol%",
+          "PhCO2H"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "C1COCCO1",
+        "relations": []
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "24-48 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "O=CC1=C(c2ccccc2)C(C(C)(C)C)C(C(C)(C)C)C(C#N)(C#N)C1",
+        "relations": [
+          "70% yield",
+          "dr 87:13",
+          "er 99.5:0.5"
+        ]
+      }
+    ]
+  ]
+}

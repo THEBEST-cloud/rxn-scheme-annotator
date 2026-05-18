@@ -1,0 +1,171 @@
+{
+  "reactions": [
+    [
+      {
+        "type": "reactants",
+        "text": "OCCC/C=C/C(=O)c1ccccc1",
+        "relations": [
+          "R = Alk, Ar, Naph",
+          "7 examples, 93-99% yield, er from 92.5:7.5 to 97.5:2.5"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "FC(F)(F)c1cc(C(F)(F)F)cc(NC(=S)N[C@H](c2ccnc3ccc(OC)cc23)[C@@H]2CC3CCN2CC3C=C)c1",
+        "relations": [
+          "3 mol%",
+          "thiourea-cinchona catalyst (compound 1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "COC1CCCC1",
+        "relations": [
+          "cyclopentyl methyl ether"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "24 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "O=C(c1ccccc1)C[C@H]1CCCO1",
+        "relations": [
+          "99% yield",
+          "er 97.5:2.5",
+          "R = Ph"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "OCCC/C=C/C(=O)c1ccc(OC)cc1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "FC(F)(F)c1cc(C(F)(F)F)cc(NC(=S)N[C@H](c2ccnc3ccc(OC)cc23)[C@@H]2CC3CCN2CC3C=C)c1",
+        "relations": [
+          "3 mol%",
+          "thiourea-cinchona catalyst (compound 1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "COC1CCCC1",
+        "relations": [
+          "cyclopentyl methyl ether"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "24 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "O=C(c1ccc(OC)cc1)C[C@H]1CCCO1",
+        "relations": [
+          "99% yield",
+          "er 97:3",
+          "R = p-OMe-Ph (compound 2)"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "OCCC/C=C/C(=O)c1ccc(C(F)(F)F)cc1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "FC(F)(F)c1cc(C(F)(F)F)cc(NC(=S)N[C@H](c2ccnc3ccc(OC)cc23)[C@@H]2CC3CCN2CC3C=C)c1",
+        "relations": [
+          "3 mol%",
+          "thiourea-cinchona catalyst (compound 1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "COC1CCCC1",
+        "relations": [
+          "cyclopentyl methyl ether"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "24 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "O=C(c1ccc(C(F)(F)F)cc1)C[C@H]1CCCO1",
+        "relations": [
+          "93% yield",
+          "er 92.5:7.5",
+          "R = p-CF3-Ph"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "OCCC/C=C/C(=O)c1ccc2ccccc2c1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "FC(F)(F)c1cc(C(F)(F)F)cc(NC(=S)N[C@H](c2ccnc3ccc(OC)cc23)[C@@H]2CC3CCN2CC3C=C)c1",
+        "relations": [
+          "3 mol%",
+          "thiourea-cinchona catalyst (compound 1)"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "COC1CCCC1",
+        "relations": [
+          "cyclopentyl methyl ether"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": []
+      },
+      {
+        "type": "time",
+        "text": "24 h",
+        "relations": []
+      },
+      {
+        "type": "products",
+        "text": "O=C(c1ccc2ccccc2c1)C[C@H]1CCCO1",
+        "relations": [
+          "98% yield",
+          "er 95.5:4.5",
+          "R = 2-Naph"
+        ]
+      }
+    ]
+  ]
+}

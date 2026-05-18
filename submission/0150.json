@@ -1,0 +1,641 @@
+{
+  "reactions": [
+    [
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/c1ccccc1)NC2CCCCC2",
+        "relations": [
+          "R¹ = amide, amine, Me, Et, Ph, OMe, OEt",
+          "R² = H, Me",
+          "R³ = H, Me, Et, i-Pr, Ph",
+          "up to 98% yield"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "2 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2P(C3CCCCC3)C4CCCCC4)cc1",
+        "relations": [
+          "2 mol%",
+          "CyJohnPhos"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "30 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OB(O)B(O)O",
+        "relations": [
+          "1.2 equiv",
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCO",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "F[H-]F.[K+]",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CO",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "products",
+        "text": "F[B-](F)(F)C(c1ccccc1)CC(=O)NC2CCCCC2.[K+]",
+        "relations": [
+          "98% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/C)N1CCOCC1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "2 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2P(C3CCCCC3)C4CCCCC4)cc1",
+        "relations": [
+          "2 mol%",
+          "CyJohnPhos"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "30 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OB(O)B(O)O",
+        "relations": [
+          "1.2 equiv",
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCO",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "F[H-]F.[K+]",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CO",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "products",
+        "text": "F[B-](F)(F)C(C)CC(=O)N1CCOCC1.[K+]",
+        "relations": [
+          "90% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "O=C(/C=C/c1ccccc1)N",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "2 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2P(C3CCCCC3)C4CCCCC4)cc1",
+        "relations": [
+          "2 mol%",
+          "CyJohnPhos"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "30 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OB(O)B(O)O",
+        "relations": [
+          "1.2 equiv",
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCO",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "F[H-]F.[K+]",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CO",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "products",
+        "text": "F[B-](F)(F)C(c1ccccc1)CC(=O)N.[K+]",
+        "relations": [
+          "78% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "O=C(C(=C)C)NC1CCCCC1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "2 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2P(C3CCCCC3)C4CCCCC4)cc1",
+        "relations": [
+          "2 mol%",
+          "CyJohnPhos"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "30 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OB(O)B(O)O",
+        "relations": [
+          "1.2 equiv",
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCO",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "F[H-]F.[K+]",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CO",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "products",
+        "text": "F[B-](F)(F)CC(C)C(=O)NC1CCCCC1.[K+]",
+        "relations": [
+          "98% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "CC(=O)C=C(C)C",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "2 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2P(C3CCCCC3)C4CCCCC4)cc1",
+        "relations": [
+          "2 mol%",
+          "CyJohnPhos"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "30 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OB(O)B(O)O",
+        "relations": [
+          "1.2 equiv",
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCO",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "F[H-]F.[K+]",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CO",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "products",
+        "text": "F[B-](F)(F)C(C)(C)CC(C)=O.[K+]",
+        "relations": [
+          "77% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "O=C(OC)/C=C/CC",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "2 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2P(C3CCCCC3)C4CCCCC4)cc1",
+        "relations": [
+          "2 mol%",
+          "CyJohnPhos"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "30 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OB(O)B(O)O",
+        "relations": [
+          "1.2 equiv",
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCO",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "F[H-]F.[K+]",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CO",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "products",
+        "text": "F[B-](F)(F)C(CC)CC(=O)OC.[K+]",
+        "relations": [
+          "83% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "O=C1CCCC=C1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "2 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2P(C3CCCCC3)C4CCCCC4)cc1",
+        "relations": [
+          "2 mol%",
+          "CyJohnPhos"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "30 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OB(O)B(O)O",
+        "relations": [
+          "1.2 equiv",
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCO",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "F[H-]F.[K+]",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CO",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "products",
+        "text": "F[B-](F)(F)C1CCCC(=O)C1.[K+]",
+        "relations": [
+          "93% yield"
+        ]
+      }
+    ],
+    [
+      {
+        "type": "reactants",
+        "text": "O=C1C=CCO1",
+        "relations": []
+      },
+      {
+        "type": "reagent",
+        "text": "Cl[Cu]",
+        "relations": [
+          "2 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "c1ccc(-c2ccccc2P(C3CCCCC3)C4CCCCC4)cc1",
+        "relations": [
+          "2 mol%",
+          "CyJohnPhos"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CC(C)(C)[O-].[Na+]",
+        "relations": [
+          "30 mol%"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "OB(O)B(O)O",
+        "relations": [
+          "1.2 equiv",
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CCO",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "F[H-]F.[K+]",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "CO",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "reagent",
+        "text": "O",
+        "relations": [
+          "step 2"
+        ]
+      },
+      {
+        "type": "temperature",
+        "text": "25 °C",
+        "relations": [
+          "step 1"
+        ]
+      },
+      {
+        "type": "products",
+        "text": "F[B-](F)(F)C1COC(=O)C1.[K+]",
+        "relations": [
+          "82% yield"
+        ]
+      }
+    ]
+  ]
+}
