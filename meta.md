@@ -22,7 +22,7 @@
 
 ## 2. 外部数据与代码声明 [必填]
 
-- **代码仓库链接**：TODO（请填入实际仓库链接，许可证建议 MIT 或 Apache-2.0）
+- **代码仓库链接**：https://github.com/THEBEST-cloud/rxn-scheme-annotator （MIT License）
 
 **使用的外部开源代码 / 模型**：
 
