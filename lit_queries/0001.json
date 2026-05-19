@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "Yb(OTf)3 PyBOX Mannich N-Boc imine malonate enantioselective",
+    "dibenzyl malonate N-tert-butoxycarbonyl imine ytterbium pybox",
+    "Karimi Enders Mannich malonate Yb pybox"
+  ],
+  "must_contain": ["mannich", "malonate", "pybox", "yb"]
+}

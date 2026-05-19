@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "Ni(cod)2 donor acceptor cyclopropane azomethine ylide pyrrolidine 3+2 cycloaddition",
+    "vinyl cyclopropane methylenemalonate imine pyrrolidine nickel asymmetric DuPhos",
+    "Ni catalyzed [3+2] cyclopropane imine pyrrolidine ee dr"
+  ],
+  "must_contain": ["nickel", "cyclopropane", "pyrrolidine"]
+}

@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "cyclohexylzinc Negishi aryl iodide diequatorial palladium cross-coupling stereoretention",
+    "alkylzinc epimerization Negishi diastereoselective cyclohexane",
+    "Pd-catalyzed Negishi coupling cyclohexyl zinc trans 1,4-cyclohexane"
+  ],
+  "must_contain": ["negishi", "zinc", "cyclohex"]
+}

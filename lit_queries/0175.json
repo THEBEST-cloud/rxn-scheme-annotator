@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "Jorgensen Hayashi diphenylprolinol diene aldehyde Diels-Alder asymmetric cyclohexene",
+    "secondary amine enamine catalysis Diels-Alder dicyanodiene benzoic acid",
+    "organocatalytic Diels-Alder unsaturated aldehyde 2-cyano diene cyclohexene"
+  ],
+  "must_contain": ["jorgensen", "diels-alder"]
+}

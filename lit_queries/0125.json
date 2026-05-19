@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "Minisci radical alkylation potassium trifluoroborate heteroarene Mn(OAc)3",
+    "KF3B-R radical alkylation Mn(III) heteroaromatic CH functionalization",
+    "trifluoroborate Minisci-type addition quinoline manganese"
+  ],
+  "must_contain": ["minisci", "trifluoroborate", "manganese"]
+}

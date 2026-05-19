@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "Sc(OTf)3 N,N-dioxide Feng chiral aza-Diels-Alder Danishefsky diene 2-aminophenol",
+    "scandium triflate N,N'-dioxide pyridine dihydropyridone enantioselective",
+    "Feng N,N-dioxide Sc(OTf)3 aza-Diels-Alder ee"
+  ],
+  "must_contain": ["scandium", "dioxide", "aza-diels"]
+}

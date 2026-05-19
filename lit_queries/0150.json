@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "CuCl CyJohnPhos B2(OH)4 conjugate borylation alpha-beta unsaturated KHF2 trifluoroborate",
+    "tetrahydroxydiboron Cu-catalyzed conjugate boration KHF2 BF3K Michael acceptor",
+    "Cu CyJohnPhos tetrahydroxydiboron enone borylation"
+  ],
+  "must_contain": ["copper", "boration", "trifluoroborate"]
+}

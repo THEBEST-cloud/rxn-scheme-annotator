@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "copper sulfinyl phosphine boryl B2pin2 N-Boc aldimine alpha-amino boronate asymmetric",
+    "Cu-catalyzed enantioselective boryl addition N-Boc imine sulfoxide phosphine",
+    "alpha-aminoboronate Cu sulfoxide ligand NaBARF tert-butoxide"
+  ],
+  "must_contain": ["copper", "boryl", "imine", "amino"]
+}

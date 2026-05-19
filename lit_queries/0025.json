@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "TMPLi 2,2,6,6-tetramethylpiperidide directed metalation aryl-aryl coupling fluoride chloride",
+    "lithium 2,2,6,6-tetramethylpiperidide aryne aryl coupling heteroarene",
+    "TMPLi pentane THF aryne coupling intermolecular"
+  ],
+  "must_contain": ["tmpli", "tetramethylpiperid"]
+}

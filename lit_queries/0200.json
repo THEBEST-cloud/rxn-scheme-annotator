@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "intramolecular oxa-Michael tetrahydrofuran enone hydroxyl thiourea cinchona catalyst",
+    "asymmetric oxa-Michael cyclization 2-hydroxyphenyl enone organocatalyst quinine",
+    "delta-hydroxy unsaturated ketone oxa-Michael cyclopentyl methyl ether"
+  ],
+  "must_contain": ["oxa-michael", "tetrahydrofuran"]
+}
