@@ -145,23 +145,38 @@
 
 ## 待规划的实验序列
 
-### v6: 立体反向实验（v5 结果决定）
-- 如果 v5 +：给所有 ee>0 产物补 stereo（按催化剂手性推）
-- 如果 v5 0：尝试别的 SMILES 形式实验
+### v5 已搁置（去 stereo）
+- 已写好 `scripts/v5_strip_stereo.py`，submission_v5.zip 已生成
+- 提交期望仅 +3 分（v3+v4 推论暗示评测器已不在乎 stereo）
+- 留作低价值备选
 
-### v7: 多 sub-agent 共识重标关键图
-- 高错误图选 30 张，每张 3 个 sub-agent 独投，InChIKey 投票
-- 期望：+100-400（最 expensive 但最实在）
+### v6 (Part B) 已搁置（追加 general scheme）
+- 已写 `scripts/v6_add_general_scheme.py`
+- 输出含太多机理图碎片噪声，不交
 
-### v8: CLC-DB catalyst 字典对齐
-- 仅当 InChIKey 完全等价才替换（零风险）
-- 期望：+50-200
+### v6-consensus 备选：多 sub-agent 共识投票
+**核心思想**：同 Claude × N 次相同 prompt 因 sampling 温度有 10-20% 输出差异；
+不同 prompt 视角的 sub-agent 能产生 30-50% 多样性；不同模型（Claude + Gemini + GPT）
+能到 50-70% 多样性。
 
-### v9: substrate scope 多 R 枚举（纯追加）
-- 每张 scope 图除现有 R 实例外，再追加 2-3 个其他 R 的具体反应
-- 期望：+50-200（看运气是否撞到 gold 选的 R）
+| 配置 | 多样性 | 期望增益 | Token | 提交 |
+|---|---|---|---|---|
+| 同 prompt × 3 Claude | 低 | +100-300 | 18-20M | 1 |
+| 不同 prompt × 3 Claude | 中 | +150-400 | 25-30M | 1 |
+| Claude × 2 + Gemini-3-Flash × 1 | 高 | +250-500 | 12M + API | 1 |
 
-### v10-v12: 收尾微调
+具体设计：
+```
+对每张图（200 张）：
+  pass 1: 强调 "R-group 配对小心" 的 prompt
+  pass 2: 强调 "catalyst 结构准确" 的 prompt
+  pass 3: 强调 "立体化学和楔形键" 的 prompt
+  pass 4 (可选): Gemini-3-Flash API 独立看
+→ InChIKey 投票，2+ 一致接受，否则 main agent 决断
+```
+
+### v7+: CLC-DB / OPSIN / MARCUS（小幅工具升级）
+- 期望各 +50-200，组合 +200-400
 
 ---
 
